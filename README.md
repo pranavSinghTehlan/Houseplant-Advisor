@@ -38,8 +38,8 @@ All files for this project are housed in a single root directory:
 
 1. **Clone the repository:**
    ```bash
-   git clone <your-github-repo-url>
-   cd <your-repo-directory>
+   git clone [https://github.com/pranavSinghTehlan/Houseplant-Advisor.git](https://github.com/pranavSinghTehlan/Houseplant-Advisor.git)
+   cd Houseplant-Advisor
    ```
 
 2. **Create and activate a virtual environment:**
