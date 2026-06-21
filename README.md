@@ -9,7 +9,6 @@ A deep learning-powered web application that identifies houseplants from uploade
 - **User-Friendly Interface:** Built on Streamlit for a fast, responsive, and intuitive experience.
 
 ## Screenshots
-*(Make sure your screenshots are saved in this folder and match the filenames below)*
 
 ![Upload Screen](Screenshot1.png)
 > *The main upload interface, prompting users for a clear, single-plant image.*
@@ -26,11 +25,11 @@ All files for this project are housed in a single root directory:
 ├── tips.csv                           # Database of plant care instructions
 ├── mapping.csv                        # Mapping of model class indices to plant names
 ├── model_training.ipynb               # Training pipeline, data augmentation, and sanitization
-├── Screenshot 1.png                   # Screenshot of the upload interface
-├── Screenshot 2.png 
-├── Screenshot 3.png                   
-├── Screenshot 4.png                   # Screenshot of the results interface
+├── Screenshot1.png                    # Screenshot of the upload interface
+├── Screenshot3.png                   
+├── Screenshot4.png                    # Screenshot of the results interface
 ├── requirements.txt                   # Project dependencies (Streamlit, TensorFlow, etc.)
+├── test.jpeg                          # A test image of a snake plant
 └── README.md                          # Project documentation (this file)
 ```
 
