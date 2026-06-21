@@ -11,7 +11,7 @@ A deep learning-powered web application that identifies houseplants from uploade
 ## Screenshots
 *(Make sure your screenshots are saved in this folder and match the filenames below)*
 
-![Upload Screen]("Screenshot1.png")
+![Upload Screen](Screenshot1.png)
 > *The main upload interface, prompting users for a clear, single-plant image.*
 ![Result Screen 1](Screenshot3.png)
 ![Result Screen 2](Screenshot4.png)
