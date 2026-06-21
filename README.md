@@ -9,7 +9,6 @@ A deep learning-powered web application that identifies houseplants from uploade
 - **User-Friendly Interface:** Built on Streamlit for a fast, responsive, and intuitive experience.
 
 ## Screenshots
-
 ![Upload Screen](Screenshot1.png)
 > *The main upload interface, prompting users for a clear, single-plant image.*
 ![Result Screen 1](Screenshot3.png)
